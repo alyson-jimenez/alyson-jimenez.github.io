@@ -1,0 +1,89 @@
+body {
+    background: url('Inteligencia-artificial.jpg') no-repeat center center fixed;
+    background-size: cover;
+
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+.resume {
+    max-width: 1000px;
+    margin: 0 auto;
+
+    padding: 50px;
+}
+.parra1{
+    font-family: 'Piazzolla', serif;
+
+    font-family: 'Raleway', sans-serif;
+}
+.parra2{
+    font-family: 'Piazzolla', serif;
+
+    font-family: 'Raleway', sans-serif;
+}
+.parra3{
+    
+    font-family: 'Piazzolla', serif;
+
+    font-family: 'Raleway', sans-serif;
+}
+.parra4¨{
+    font-family: 'Piazzolla', serif;
+
+    font-family: 'Raleway', sans-serif;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact img {
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+.contact a {
+    text-decoration: none;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2 {
+    margin-top: 0px;
+    color: grey;
+}
+h1, h2 {
+    text-align: center;
+}
+
+h3 {
+    border-bottom: solid 1px black;
+    margin-top: 35px;
+    background-color:lightgreen;
+
+}
+
+h4 {
+    margin-bottom: 0px;
+    font-family: 'Piazzolla', serif;
+
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    margin-top: 0px;
+    text-align: justify;
+}
+.nombres{
+    font-family: 'Piazzolla', serif;
+    background-color: lightpink;
+
+}
+.pepe{
+  border-style: double;
+  background-color: royalblue;
+
+}
